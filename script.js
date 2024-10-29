@@ -19,17 +19,17 @@ function addHomeScore3() {
     homeScoreEl.textContent = homeScore;
 }
 
-function addGuestScore1() {
+function addAwayScore1() {
     guestScore += 1;
     guestScoreEl.textContent = guestScore;
 }
 
-function addGuestScore2() {
+function addAwayScore2() {
     guestScore += 2;
     guestScoreEl.textContent = guestScore;
 }
 
-function addGuestScore3() {
+function addAwayScore3() {
     guestScore += 3;
     guestScoreEl.textContent = guestScore;
 }
